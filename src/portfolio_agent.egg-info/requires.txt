@@ -1,0 +1,17 @@
+pyyaml
+langchain>=0.2.10
+langchain-core>=0.2.10
+langchain-community>=0.2.10
+langchain-openai>=0.2.0
+langchain-google-genai>=2.0.0
+deepagents
+python-dotenv
+jinja2
+e2b-code-interpreter
+pandas
+pydantic
+pydantic-settings
+yfinance
+pinecone
+robin_stocks
+tavily-python

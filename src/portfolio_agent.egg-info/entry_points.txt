@@ -1,0 +1,2 @@
+[console_scripts]
+portfolio-agent = portfolio_agent.app:main

@@ -1,0 +1,14 @@
+pyyaml
+langchain
+langchain-openai
+langchain-google-genai
+langchain-core
+langchain-community
+deepagents
+python-dotenv
+jinja2
+e2b-code-interpreter
+pydantic
+pinecone
+robin_stocks
+tavily-python

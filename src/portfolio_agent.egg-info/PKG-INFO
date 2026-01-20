@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: portfolio-agent
+Version: 0.1.0
+Summary: Portfolio analysis agent with codegen, sandbox execution, and caching.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pyyaml
+Requires-Dist: langchain>=0.2.10
+Requires-Dist: langchain-core>=0.2.10
+Requires-Dist: langchain-community>=0.2.10
+Requires-Dist: langchain-openai>=0.2.0
+Requires-Dist: langchain-google-genai>=2.0.0
+Requires-Dist: deepagents
+Requires-Dist: python-dotenv
+Requires-Dist: jinja2
+Requires-Dist: e2b-code-interpreter
+Requires-Dist: pandas
+Requires-Dist: pydantic
+Requires-Dist: pydantic-settings
+Requires-Dist: yfinance
+Requires-Dist: pinecone
+Requires-Dist: robin_stocks
+Requires-Dist: tavily-python
